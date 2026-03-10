@@ -1,6 +1,6 @@
 # BlueTodo TUI
 
-Ein kleiner Terminal-Client fuer das BlueTodo-TCP-Protokoll.
+Ein kleiner Terminal-Client für das BlueTodo-TCP-Protokoll.
 
 ## Start
 
@@ -10,9 +10,9 @@ Ein kleiner Terminal-Client fuer das BlueTodo-TCP-Protokoll.
 
 ## Tasten
 
-- Aktive Todos: `n` neu, `x` archivieren, `v` Archivansicht, `Enter` oeffnen, `r` neu laden, `q` beenden
-- Archiv: `u` wiederherstellen, `v` aktive Liste, `Enter` oeffnen, `r` neu laden, `q` beenden
-- Tasks: `a` neue Task, `t` umschalten, `b` zurueck, `r` neu laden, `q` beenden
+- Aktive Todos: `n` neu, `x` archivieren, `v` Archivansicht, `Enter` öffnen, `r` neu laden, `q` beenden
+- Archiv: `u` wiederherstellen, `v` aktive Liste, `Enter` öffnen, `r` neu laden, `q` beenden
+- Tasks: `a` neue Task, `t` umschalten, `b` zurück, `r` neu laden, `q` beenden
 
 ## Lizenz
 

@@ -17,3 +17,5 @@ Ein kleiner Terminal-Client für das BlueTodo-TCP-Protokoll.
 ## Lizenz
 
 MIT, siehe `LICENSE`.
+
+Mit Hilfe von codex-cli ❤️ erstellt, danke!
